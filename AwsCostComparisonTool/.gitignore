@@ -21,3 +21,6 @@ local.properties
 
 #ad information
 res/values/env.xml
+
+#Mac file
+.DS_Store
